@@ -1,0 +1,9 @@
+1. Controllers: bookController, mouse
+2. Filters: uppercase, date
+3. Ngrepeat: schedule
+4. Factory: time allotment
+5. Custom Services: email validation
+6. Custom Directives: contact informations
+7. Built-in Directives: ng-modal, mg-controllers
+8. Events: mouse over and on paste, ng-blur
+9. Inheritance: transform name and email data from bookController to mouse
