@@ -4,10 +4,13 @@ The Project is an Hospital Appointment Booking System for TCE Web Technology Lab
 Set up at Angular JS in your local machine
 Install VS code
 # Languages used
-HTML
-CSS
-Angular JS
-Bootstrap
+* HTML
+* CSS
+* Angular JS
+* Bootstrap
+# Features
+i) Style and Elegant UI
+ii) Repsonsive Pages
 # Angular JS Concepts
 1. Controllers
 2. Filters
