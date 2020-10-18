@@ -9,8 +9,8 @@ Install VS code
 * Angular JS
 * Bootstrap
 # Features
-i) Style and Elegant UI
-ii) Repsonsive Pages
+1. Style and Elegant UI
+2. Repsonsive Pages
 # Angular JS Concepts
 1. Controllers
 2. Filters
